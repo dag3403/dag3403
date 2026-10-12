@@ -27,5 +27,5 @@ Google Cloud Skills Badges in BigQuery, Looker, BigQuery ML, DevOps workflows an
 I'm interested in opportunities in **Data Science, Machine Learning Engineering, Data Analytics and Data Engineering**, where I can apply statistical thinking and technical skills to solve real-world problems.
 
 - GitHub: https://github.com/dag3403
-- LinkedIn: [My LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/daniel-armenteros-garc%C3%ADa-4829052a3/?isSelfProfile=true
 - Email: daniel.armenteros.garcia@gmail.com
