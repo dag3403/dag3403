@@ -1,31 +1,39 @@
 # Daniel Armenteros García
-### Data Scientist | Machine Learning Engineer | Data Analyst
+### Data Scientist | Data Analyst | Machine Learning
 
-I'm a **Statistician and Data Scientist** with a Master's degree in Applied Statistics from the University of Granada, specializing in machine learning, statistical modeling, and data-driven solutions.
+I'm a Statistician with a Master's degree in Applied Statistics from the University of Granada, focused on data analysis, machine learning, and statistical modeling.
 
-My experience combines **real-world data analytics, probabilistic modeling, and end-to-end machine learning development**. At NTT DATA, I developed automated Power BI dashboards for People Analytics, helping reduce HR reporting preparation time by 20%. At QUANTIA, I worked on advanced statistical models for industrial reliability, improving log-evidence by 3.53% compared with previous methods.
+My experience combines business analytics, probabilistic modeling, and end-to-end machine learning projects. At NTT DATA, I developed Power BI dashboards for People Analytics, helping reduce HR reporting preparation time by 20%. At QUANTIA, I worked on statistical models for industrial reliability and evaluated their performance against previous methods.
 
-I'm passionate about transforming complex data into actionable insights and building reliable, scalable solutions, from data processing and feature engineering to model evaluation and API deployment.
+I enjoy transforming complex data into useful insights and building reproducible solutions, from data processing and exploratory analysis to model evaluation and API deployment.
 
-### Technical Expertise
-- **Programming & Data Analysis:** Python, SQL, R, Pandas, NumPy, SciPy
-- **Machine Learning:** Scikit-learn, XGBoost, CatBoost, classification, clustering, model validation and hyperparameter optimization
-- **Statistical Modeling:** Bayesian inference, MCMC, probabilistic modeling and Monte Carlo simulation
+## Technical Skills
+
+- **Programming:** Python, SQL, R
+- **Data Analysis:** Pandas, NumPy, SciPy, exploratory data analysis, data visualization
+- **Machine Learning:** Scikit-learn, XGBoost, CatBoost, clustering, classification, model evaluation
+- **Statistical Modeling:** Bayesian inference, MCMC, probabilistic modeling, Monte Carlo simulation
 - **Data Engineering & Cloud:** PySpark, Google Cloud Platform, BigQuery, BigQuery ML, PostgreSQL
 - **Deployment & BI:** Docker, FastAPI, Power BI, Metabase, Looker Studio
 
-### Featured Projects
-- **Speed Dating Analytics Platform:** End-to-end lakehouse architecture and machine learning pipeline using Apache Spark, MinIO, PostgreSQL, Docker and FastAPI.
-- **Credit Risk Prediction:** Machine learning models and an API for credit default risk assessment and decision support.
-- **Audio Analytics ML Model:** Multiclass classification using acoustic features, ensemble models and model optimization.
-- **Student Exam Score Prediction:** Exploratory data analysis and predictive modeling to investigate factors associated with academic performance.
+## Featured Projects
 
-### Certifications
-Google Cloud Skills Badges in BigQuery, Looker, BigQuery ML, DevOps workflows and Terraform.
+### Movie Clustering & Recommendation System
+An unsupervised learning project exploring movie groups and content-based recommendations using structured metadata and textual descriptions.
 
-### Let's Connect
-I'm interested in opportunities in **Data Science, Machine Learning Engineering, Data Analytics and Data Engineering**, where I can apply statistical thinking and technical skills to solve real-world problems.
+### Speed Dating Analytics Platform
+An end-to-end data platform combining Apache Spark, MinIO, PostgreSQL, Docker, and a machine learning inference API built with FastAPI.
 
-- GitHub: https://github.com/dag3403
-- LinkedIn: https://www.linkedin.com/in/daniel-armenteros-garc%C3%ADa-4829052a3/?isSelfProfile=true
-- Email: daniel.armenteros.garcia@gmail.com
+[Explore my repositories](https://github.com/dag3403?tab=repositories)
+
+## Certifications
+
+Google Cloud Skills Badges covering BigQuery, Looker, BigQuery ML, DevOps workflows, and Terraform.
+
+## Contact
+
+- **GitHub:** https://github.com/dag3403
+- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/daniel-armenteros-garc%C3%ADa-4829052a3/?isSelfProfile=true)
+- **Email:** daniel.armenteros.garcia@gmail.com
+
+I'm interested in opportunities in Data Analytics, Data Science, and Machine Learning Engineering.
